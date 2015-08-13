@@ -1,4 +1,4 @@
-$(call inherit-product, device/samsung/hltetmo/full_hlte.mk)
+$(call inherit-product, device/samsung/hltetmo/full_hltetmo.mk)
 
 # Enhanced NFC
 $(call inherit-product, vendor/bliss/config/nfc_enhanced.mk)
