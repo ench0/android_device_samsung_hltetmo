@@ -1,1 +1,2 @@
-add_lunch_combo cm_hltetmo-eng
+add_lunch_combo bliss_hltetmo-eng
+add_lunch_combo bliss_hltetmo-userdebug
